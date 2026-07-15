@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [2469-convert-the-temperature](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
