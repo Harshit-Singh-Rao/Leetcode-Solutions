@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [2235-add-two-integers](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
