@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
