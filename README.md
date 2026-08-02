@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1672-richest-customer-wealth](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
