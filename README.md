@@ -14,6 +14,7 @@
 | [1672-richest-customer-wealth](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [3731-find-missing-elements](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
