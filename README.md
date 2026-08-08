@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
