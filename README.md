@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
