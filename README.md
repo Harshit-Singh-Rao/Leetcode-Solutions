@@ -50,6 +50,7 @@
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1154-day-of-the-year](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -96,6 +97,7 @@
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1154-day-of-the-year](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 ## Greedy
 |  |
 | ------- |
