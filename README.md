@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -56,6 +57,7 @@
 | [2469-convert-the-temperature](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
