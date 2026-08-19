@@ -30,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -98,6 +99,7 @@
 | [0796-rotate-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
