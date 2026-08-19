@@ -26,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
