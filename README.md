@@ -36,6 +36,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [3360-stone-removal-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
