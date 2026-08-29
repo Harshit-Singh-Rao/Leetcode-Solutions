@@ -89,6 +89,7 @@
 | [0011-container-with-most-water](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@
 | [0013-roman-to-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0125-valid-palindrome](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0796-rotate-string) |
