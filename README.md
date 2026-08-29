@@ -11,6 +11,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -55,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
