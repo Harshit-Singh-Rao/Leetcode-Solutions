@@ -55,6 +55,7 @@
 | [0012-integer-to-roman](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
@@ -97,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
