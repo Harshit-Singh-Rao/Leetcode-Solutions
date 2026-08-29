@@ -32,6 +32,7 @@
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +112,7 @@
 | [0125-valid-palindrome](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -162,6 +164,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
@@ -171,4 +174,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
