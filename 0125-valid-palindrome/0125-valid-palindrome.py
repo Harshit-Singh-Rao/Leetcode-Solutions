@@ -7,4 +7,4 @@ class Solution:
         if s==s[::-1]:
             return True
         else:
-            return False
+            return  False
