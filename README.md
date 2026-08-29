@@ -59,6 +59,7 @@
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -176,6 +178,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
