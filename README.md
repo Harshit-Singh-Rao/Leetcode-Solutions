@@ -189,4 +189,20 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
