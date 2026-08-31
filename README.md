@@ -24,6 +24,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3360-stone-removal-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
@@ -111,6 +113,7 @@
 | [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
 | ------- |
