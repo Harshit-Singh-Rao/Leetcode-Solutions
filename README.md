@@ -78,6 +78,7 @@
 | [2235-add-two-integers](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
