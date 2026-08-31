@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -64,6 +65,7 @@
 | [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -105,6 +107,7 @@
 | [0125-valid-palindrome](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Bit Manipulation
@@ -211,4 +214,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
