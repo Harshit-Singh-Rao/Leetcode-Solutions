@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -137,6 +138,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
