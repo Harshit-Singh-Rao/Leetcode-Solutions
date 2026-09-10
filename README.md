@@ -71,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
