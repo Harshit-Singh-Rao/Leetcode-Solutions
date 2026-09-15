@@ -30,6 +30,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [3360-stone-removal-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
