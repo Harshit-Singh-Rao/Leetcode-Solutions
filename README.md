@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
