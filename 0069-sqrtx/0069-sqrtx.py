@@ -1,5 +1,6 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
+        #Newton-Raphson Method Implementation
         if x<0:
             return None
         if x==0:
