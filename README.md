@@ -88,6 +88,7 @@
 | [1154-day-of-the-year](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1922-count-good-numbers](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -230,6 +231,7 @@
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
