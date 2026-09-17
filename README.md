@@ -132,6 +132,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -175,6 +176,7 @@
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -204,6 +206,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -232,6 +235,7 @@
 | [0050-powx-n](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
