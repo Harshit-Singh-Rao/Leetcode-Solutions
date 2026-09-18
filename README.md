@@ -11,6 +11,7 @@
 | [0014-longest-common-prefix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -133,6 +134,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
