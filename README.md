@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Number Theory
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -228,6 +232,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Backtracking
@@ -281,4 +286,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
