@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -63,6 +64,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
