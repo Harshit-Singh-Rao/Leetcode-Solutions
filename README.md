@@ -31,6 +31,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -124,6 +125,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,4 +312,9 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Harshit-Singh-Rao/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
